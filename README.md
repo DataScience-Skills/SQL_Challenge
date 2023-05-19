@@ -26,11 +26,12 @@ This challenge showcases SQL skills. It is divided into four parts:
 **Data Analysis:**
 - /Data_Analysis/queries.sql
 
+
+**GITIGNORE:**
+- /.gitignore
+
 **License:**
 - /LICENSE
 
 **Readme:**
 - /README.md
-
-**GITIGNORE:**
-- /.gitignore
