@@ -35,3 +35,7 @@ This challenge showcases SQL skills. It is divided into four parts:
 
 **Readme:**
 - /README.md
+
+---
+
+© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
