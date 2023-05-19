@@ -9,28 +9,28 @@ This challenge showcases SQL skills. It is divided into four parts:
 <u>Location of Files:</u>
 
 **Data:**
-/Data/departments.csv
-/Data/dept_emp.csv
-/Data/dept_manager.csv
-/Data/employees.csv
-/Data/salaries.csv
-/Data/titles.csv
+- /Data/departments.csv
+- /Data/dept_emp.csv
+- /Data/dept_manager.csv
+- /Data/employees.csv
+- /Data/salaries.csv
+- /Data/titles.csv
 
 **Data Modeling:**
-/Data Modeling/QuickDBD-export.png
-/Data Modeling/QuickDBD-export.pdf
+- /Data Modeling/QuickDBD-export.png
+- /Data Modeling/QuickDBD-export.pdf
 
 **Data Engineering:**
-/Data_Engineering/table_schemata.sql
+- /Data_Engineering/table_schemata.sql
 
 **Data Analysis:**
-/Data_Analysis/queries.sql
+- /Data_Analysis/queries.sql
 
 **License:**
-/LICENSE
+- /LICENSE
 
 **Readme:**
-/README.md
+- /README.md
 
 **GITIGNORE:**
-/.gitignore
+- /.gitignore
