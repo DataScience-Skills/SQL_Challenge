@@ -27,7 +27,7 @@ This challenge showcases SQL skills. It is divided into four parts:
 - /Data_Analysis/queries.sql
 
 
-**GITIGNORE:**
+**Gitignore:**
 - /.gitignore
 
 **License:**
