@@ -1,5 +1,7 @@
 Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Challenge 9
 
+Brief summary paragraph of which skills this project/challenge is showing.
+
 This challenge showcases SQL skills. It is divided into four parts:
 - **Data**
 - **Data Modeling**
