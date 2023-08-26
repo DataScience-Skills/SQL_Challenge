@@ -6,7 +6,7 @@ As a data engineer at Pewlett Hackard, explore and analyze employee data from th
 ## Purpose
 Develop skills in data modeling, engineering, and analysis using SQL. Create efficient table schemas, handle primary and foreign keys, and answer specific questions about employee data.
 
-![Database Design](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records/tree/main/results/QuickDBD-export.png)
+![Database Design](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records/raw/main/results/QuickDBD-export.png)
 
 ## Tools
 Use tools like QuickDBD for entity relationship diagram sketching. Employ SQL for data modeling, and utilize SQL queries to import CSV files into corresponding tables. Perform data analysis using SQL queries.
