@@ -1,43 +1,18 @@
-Bootcamp: UTA-VIRT-DATA-PT-02-2023-U-LOLC-MWTH(B) Challenge 9
+# SQL Data Modeling, Engineering, and Analysis
 
-Brief summary paragraph of which skills this project/challenge is showing.
+## Background
+As a data engineer at Pewlett Hackard, explore and analyze employee data from the 1980s and 1990s. This project involves designing tables, importing CSV files into a SQL database, and performing data analysis to gain insights.
 
-This challenge showcases SQL skills. It is divided into four parts:
-- **Data**
-- **Data Modeling**
-- **Data Engineering**
-- **Data Analysis**
+## Purpose
+Develop skills in data modeling, engineering, and analysis using SQL. Create efficient table schemas, handle primary and foreign keys, and answer specific questions about employee data.
 
-<u>Location of Files:</u>
+![Database Design](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records/tree/main/results/QuickDBD-export.png)
 
-**Data:**
-- /Data/departments.csv
-- /Data/dept_emp.csv
-- /Data/dept_manager.csv
-- /Data/employees.csv
-- /Data/salaries.csv
-- /Data/titles.csv
+## Tools
+Use tools like QuickDBD for entity relationship diagram sketching. Employ SQL for data modeling, and utilize SQL queries to import CSV files into corresponding tables. Perform data analysis using SQL queries.
 
-**Data Modeling:**
-- /Data Modeling/QuickDBD-export.png
-- /Data Modeling/QuickDBD-export.pdf
+## Results
+Design and implement table schemas to handle employee data. Import CSV files into SQL tables. Address a series of data analysis questions using SQL queries, extracting valuable insights about employee details and relationships.
 
-**Data Engineering:**
-- /Data_Engineering/table_schemata.sql
-
-**Data Analysis:**
-- /Data_Analysis/queries.sql
-
-
-**Gitignore:**
-- /.gitignore
-
-**License:**
-- /LICENSE
-
-**Readme:**
-- /README.md
-
----
-
-© 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+## Conclusion
+Enhance your data engineering skills by tackling a comprehensive project involving data modeling, engineering, and analysis using SQL. Gain practical experience in handling real-world datasets, creating efficient databases, and deriving insights from structured data.
