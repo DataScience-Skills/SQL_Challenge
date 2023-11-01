@@ -1,33 +1,48 @@
 # Analysis of Hewlett-Packard Employee Database
 
-## Reference:
+## SQL Comments Syntax Reference:
 -- SQL comment, single line
+
 /* SQL comment,
  multi-line */
 
-## - 1. A list of employee numbers, last names, first names, sex, and salary for each employee.
-**ANSWER:**
-|employee_number  |last_name    |first_name    |sex  |salary  |
-|-----------------|-------------|--------------|-----|--------|
-|10001            |"Facello"    |	"Georgi"   |"M"  |60117   |
-|10005            |"Maliniak"   |	"Kyoichi"  |"M"  |78228   |
-|10010            |"Piveteau"   |	"Duangkaew"|"F"  |72488   |
-|...              |...          |...           |...  |...     |
-|...              |...          |...           |...  |...     |
-|...              |...          |...           |...  |...     |
-|499985           |"Lukaszewicz"|"Gila"        |"M"  |40000   |
-|499987	          |"Dusink"     |"Rimli"       |"F"  |52282   |
-|499998	          |"Breugel"    |"Patricia"    |"M"  |40000   |
+## 1. A list of employee numbers, last names, first names, sex, and salary for each employee.
+- **ANSWER:**
+|employee_number|last_name    |first_name    |sex  |salary|
+|---------------|-------------|--------------|-----|------|
+|10001          |"Facello"    |	"Georgi"   |"M"  |60117   |
+|10005          |"Maliniak"   |	"Kyoichi"  |"M"  |78228   |
+|10010          |"Piveteau"   |	"Duangkaew"|"F"  |72488   |
+|...            |...          |...         |...  |...     |
+|...            |...          |...         |...  |...     |
+|...            |...          |...         |...  |...     |
+|499985         |"Lukaszewicz"|"Gila"      |"M"  |40000   |
+|499987	        |"Dusink"     |"Rimli"     |"F"  |52282   |
+|499998	        |"Breugel"    |"Patricia"  |"M"  |40000   |
 
-**QUERY:**
+
+- **QUERY:**
+<pre>
 '''
 SELECT employees.employee_number, last_name, first_name, sex, salary
 FROM employees
 JOIN salaries ON employees.employee_number = salaries.employee_number;
 '''
+</pre>
+
 ## -- 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 **ANSWER:**
-
+|first_name|last_name    |hire_date   |
+|----------|-------------|------------|
+|"Eran"	   |"Cusworth"   |"1986-11-14"|
+|"Bojan"   |"Zallocco"	 |"1986-10-14"|
+|"Nevi     |"Demizu"	 |"1986-05-18"|
+|...       |...          |...         |
+|...       |...          |...         |
+|...       |...          |...         |
+|"Yishay"  |"Maksimenko" |"1986-01-27"|
+|"Yannik"  |"Ranai"      |"1986-04-06"|
+|"Chenyi"  |"Orlowska"   |"1986-12-25"|
 
 **QUERY:**
 '''
