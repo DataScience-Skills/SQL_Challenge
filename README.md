@@ -2,29 +2,23 @@
 
 ## Background
 In this exericse, you take on the role of a data engineer at Pewlett Hackard, exploring and analyzing employee data from the 1980s and 1990s. You  are using the tool PgAdmin4 to build, and manage a database as well as manually import CSV files and run queries to answer a set of questions:
-<<<<<<< HEAD
-[1] question 1
-[2] question 2
-[...]
-[n] question n
-
-## Workflow
-[1] step 1
-[2] step 2
-[...]
-[n] step n
-=======
 - [1] question 1
 - [2] question 2
 - [...]
 - [n] question n
 
 ## Workflow
-- [1] step 1
-- [2] step 2
-- [...]
-- [n] step n
->>>>>>> 83d471d (UPDATE: Updated  and)
+- [0] Fix errors as they arise
+- [1] Find data (e.g. - CSV files)
+- [2] Create project directory folders
+- [3] Gain access to necessary tools, remoately installed locally (VSCode, PgAdmin4, PSQL, QuickDBD, GitHub)
+- [4] Version control with GitHub with regular git add, git commit, and git push commands
+- [5] Use QuickDBD to generate database design
+- [6] Build database in PgAdmin4 according to database design
+- [7] Import data to database 
+- [8] Execute queries to return desired information from database
+- [9] Write project contextual information and workflow in README.md
+- [10] Write answeres to exeucted queries in answered-question.md
 
 ![Database Design](https://github.com/robert-z-lehr/SQL-Exploring-Pewlett-Hackard-Employee-Records/raw/main/results/QuickDBD-export.png)
 
@@ -33,5 +27,4 @@ In this exericse, you take on the role of a data engineer at Pewlett Hackard, ex
 - PSQL
 - PgAdmin4
 - QuickDBD
-- CSV
 
