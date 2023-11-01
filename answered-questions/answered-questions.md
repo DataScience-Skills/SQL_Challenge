@@ -7,6 +7,7 @@
 
 ## - 1. A list of employee numbers, last names, first names, sex, and salary for each employee.
 **ANSWER:**
+<<<<<<< HEAD
 |employee_number  |last_name  |first_name  |sex  |salary  |
 |-----------------|-----------|------------|-----|--------|
 |10001            |	"Facello" |	"Georgi"   |"M"  |60117   |
@@ -15,6 +16,19 @@
 |...              |...        |...         |...  |...     |
 |...              |...        |...         |...  |...     |
 |...              |...        |...         |...  |...     |
+=======
+|employee_number  |last_name    |first_name    |sex  |salary  |
+|-----------------|-------------|--------------|-----|--------|
+|10001            |"Facello"    |	"Georgi"   |"M"  |60117   |
+|10005            |"Maliniak"   |	"Kyoichi"  |"M"  |78228   |
+|10010            |"Piveteau"   |	"Duangkaew"|"F"  |72488   |
+|...              |...          |...           |...  |...     |
+|...              |...          |...           |...  |...     |
+|...              |...          |...           |...  |...     |
+|499985           |"Lukaszewicz"|"Gila"        |"M"  |40000   |
+|499987	          |"Dusink"     |"Rimli"       |"F"  |52282   |
+|499998	          |"Breugel"    |"Patricia"    |"M"  |40000   |
+>>>>>>> 83d471d (UPDATE: Updated  and)
 
 **QUERY:**
 '''
