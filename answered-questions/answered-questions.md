@@ -8,6 +8,7 @@
 
 ## 1. A list of employee numbers, last names, first names, sex, and salary for each employee.
 - **ANSWER:**
+
 |employee_number|last_name    |first_name    |sex  |salary|
 |---------------|-------------|--------------|-----|------|
 |10001          |"Facello"    |	"Georgi"   |"M"  |60117   |
@@ -22,6 +23,7 @@
 
 
 - **QUERY:**
+
 <pre>
 '''
 SELECT employees.employee_number, last_name, first_name, sex, salary
