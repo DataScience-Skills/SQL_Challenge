@@ -1,4 +1,4 @@
-# Analysis of Hewlett-Packard Employee Database
+# Analysis of Pewlett-Hackard Employee Database
 
 ## SQL Comments Syntax Reference:
 -- SQL comment, single line
