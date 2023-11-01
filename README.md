@@ -2,7 +2,7 @@
 
 ## Background
 In this exericse, you take on the role of a data engineer at Pewlett Hackard, exploring and analyzing employee data from the 1980s and 1990s. You are using the tool [PgAdmin4](https://www.pgadmin.org/) to build, and manage a database as well as manually import CSV files and run queries to retrieve the following information:
-[requested-information.md](https://github.com/robert-z-lehr/Example-SQL-Database/raw/main/requested-information/requested-information.md)
+[requested-information.md](https://github.com/robert-z-lehr/Example-SQL-Database/blob/main/requested-information/requested-information.md)
 - [1] List the employee number, last name, first name, sex, and salary of each employee.
 - [2] List the first name, last name, and hire date for the employees who were hired in 1986.
 - [3] List the manager of each department along with their department number, department name, employee number, last name, and first name.
