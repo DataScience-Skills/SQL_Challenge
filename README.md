@@ -16,4 +16,4 @@ To design tables, import CSV files into a SQL database, and perform data analysi
 - CSV
 
 ## Results
-Created efficient table schemas, handle primary and foreign keys, and answer specific questions about employee data. Imported CSV files into SQL tables. 
+Created table schemas, handled primary and foreign keys, imported CSV files into SQL tables, and answered specific questions about employee data.
