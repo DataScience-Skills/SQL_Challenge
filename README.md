@@ -8,8 +8,8 @@ In this exericse, you take on the role of a data engineer at Pewlett Hackard, ex
 - [0] Fix errors as they arise
 - [1] Find data (e.g. - CSV files)
 - [2] Create project directory folders
-- [3] Gain access to necessary tools, remoately installed locally (VSCode, PgAdmin4, PSQL, QuickDBD, GitHub)
-- [4] Version control with GitHub with regular git add, git commit, and git push commands
+- [3] Gain access to necessary tools, remoately installed locally ([VSCode](https://code.visualstudio.com/), [PgAdmin4](https://www.pgadmin.org/download/), [PSQL](https://www.postgresql.org/download/), [QuickDBD](https://www.quickdatabasediagrams.com/), [GitHub](https://github.com/))
+- [4] Version control with GitHub with regular commands to update version: `git add`, `git commit`, `git push`
 - [5] Use QuickDBD to generate database design
 - [6] Build database in PgAdmin4 according to database design
 - [7] Import data to database 
